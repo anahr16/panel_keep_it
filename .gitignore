@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+venv_wsl/
+venv_win/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Excel (locks) y temporales
+~$*.xlsx
+*.tmp
+*.log
+
+# Archivos pesados que GitHub no acepta (>100MB) — mantener local
+# Agrega aquí los Excel grandes del panel cuando aparezcan

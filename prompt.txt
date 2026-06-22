@@ -1,0 +1,4 @@
+# Registro de peticiones — Panel Keep It
+
+## 2026-06-22
+- Setup inicial del repositorio con andamiaje genérico.
