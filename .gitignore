@@ -27,4 +27,6 @@ Thumbs.db
 *.log
 
 # Archivos pesados que GitHub no acepta (>100MB) — mantener local
-# Agrega aquí los Excel grandes del panel cuando aparezcan
+# Datos del panel (insumos y salidas): se mantienen locales, no en git
+Consolidadores/
+*.xlsx

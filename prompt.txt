@@ -2,3 +2,26 @@
 
 ## 2026-06-22
 - Setup inicial del repositorio con andamiaje genérico.
+
+## 2026-06-23
+- "Analiza en profundidad el archivo DATA KEEP IT 2024 en Consolidadores. Nuevo
+  proyecto Keep It: entender la información, cálculos y todo para actualizar un
+  panel nuevo. Por lo pronto: de dónde vienen los datos y el cruce de información."
+- "¿De dónde viene la familia?"
+- "Hipótesis: Casos Keep It = donde 'Caso Keep It' verdadero y 'Acción de Cierre' es
+  Si Acepta / No Acepta. (Archivo Informe Productos-Reserva Keep-it)."
+- "El panel ya existe; queremos actualizar el sheet. ¿Se puede rellenar con esos dos
+  archivos? Ver desde qué fecha falta para dejarlo al día. Archivo nuevo en carpeta
+  2279dfef-... para generar familias y subfamilias."
+- "Reglas del flag Keep It (tipificaciones que lo auto-marcan) + Acción de cierre
+  Si/No Acepta. Archivo de costos c240543e / b0fb0586 / ad4a57bf desde Qlik."
+- "¿Cómo hacía el chico el cálculo del ahorro?" (empleado anterior, despedido).
+- "Ayuda con los filtros de Qlik para sacar el costo por año/mes."
+- "Actualiza el sheet, haz los cálculos correctos. Confirma fuentes de datos."
+- "Compara Casos y Cupones viejo vs nuevo. 'Producto no corresponde' solo si flag=1."
+- "Regenera y pinta de azul las celdas a agregar."
+- "Columnas C/D vacías en Cupones (Monto/Compra Min); borra el archivo viejo."
+- "Analiza exhaustivamente la hoja Ahorro (celdas vacías). Dejar #N/D como el original."
+
+## 2026-06-24
+- "Commit del trabajo (script de actualización + documentación)."
